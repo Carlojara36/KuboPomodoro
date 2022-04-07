@@ -33,7 +33,7 @@ import ChangePassword from "./ChangePassword.js";
             <form className='mt-12 -space-y'>
                   <div className="rounded-md shadow-sm -space-y-px ">
                       <div>
-                        <label for="email" class="sr-only ">Username</label>
+                        <label for="email" class="sr-only ">Email</label>
                         <input type="email" 
                         name="email" 
                         id="email" 
